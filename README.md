@@ -1,5 +1,7 @@
 # TeamApp
 
+<!-- App to generate a team by inserting name of people and number of teams -->
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
 
 ## Development server
